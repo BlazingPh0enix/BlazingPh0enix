@@ -5,9 +5,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blazingph0enix&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=blazingph0enix&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=BlazingPh0enix&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BlazingPh0enix&theme=dracula&hide_border=false)<br/>
 
 </div>
 
